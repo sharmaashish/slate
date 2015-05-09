@@ -2,8 +2,6 @@
 title: caMicroscope Reference
 
 language_tabs:
-  - shell
-  - ruby
   - python
 
 toc_footers:
