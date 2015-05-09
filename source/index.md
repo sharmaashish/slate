@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: caMicroscope Reference
 
 language_tabs:
   - shell
