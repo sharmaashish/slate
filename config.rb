@@ -1,3 +1,7 @@
+# Source Directory
+set :source, 'tcia-api-source'
+# set :source, 'camic-api-source'
+
 # Markdown
 set :markdown_engine, :redcarpet
 set :markdown,
